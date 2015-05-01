@@ -1,2 +1,5 @@
 # hello-world
-New Repository
+------------------
+-------------------
+
+hi learninhg about github
